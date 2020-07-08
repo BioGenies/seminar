@@ -1,5 +1,6 @@
 Seminars
 
+ - 5-08-2020: Używanie UniProt, Filip Pietluch.
  - 29-07-2020: VisQual, Jan Sawicki.
  - 22-07-2020: HaDeX, Weronika Puchała.
  - 15-07-2020: AmpGram, Katarzyna Sidorczuk.
