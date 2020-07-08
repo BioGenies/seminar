@@ -1,5 +1,6 @@
 Seminars
 
+ - 29-07-2020: VisQual, Jan Sawicki.
  - 22-07-2020: HaDeX, Weronika Puchała.
  - 15-07-2020: AmpGram, Katarzyna Sidorczuk.
  - 8-07-2020: QuiPT and feature filtering, Jakub Kała.
