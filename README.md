@@ -1,5 +1,6 @@
 Seminars
 
+ - 19-08-2020: Evolution of AMPs, Przemysław Gagat.
  - 12-08-2020: Proteomics 101, Dominik Cysewski.
  - 5-08-2020: Using UniProt, Filip Pietluch.
  - 29-07-2020: VisQual, Jan Sawicki.
