@@ -1,7 +1,7 @@
 Seminars
 
  - 09-09-2020: **Evolution of AMPs**, Przemysław Gagat.
- - 02-09-2020: 
+ - 02-09-2020: **How to organise a project**, Leon Eyrich Jessen.
  - 26-08-2020: **Using UniProt**, Filip Pietluch.
  - 19-08-2020: **Proteomics 101, part 2**, Dominik Cysewski.
  - 12-08-2020: **Proteomics 101, part 1**, Dominik Cysewski.
