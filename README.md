@@ -1,5 +1,7 @@
 Seminars
 
+ - 23-09-2020: Why R? presentations - general test.
+ - 16-09-2020: 
  - 09-09-2020: **Evolution of AMPs**, Przemysław Gagat.
  - 02-09-2020: **How to organise a project**, Leon Eyrich Jessen.
  - 26-08-2020: **Using UniProt**, Filip Pietluch.
