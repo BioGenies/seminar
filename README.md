@@ -1,4 +1,4 @@
-Seminars
+## Seminars
 
  - 30-09-2020: **Simulasting sequences for feature filtering**, Jakub Kała.
  - 23-09-2020: Why R? presentations - general test.
