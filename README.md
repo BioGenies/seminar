@@ -1,5 +1,6 @@
 ## Seminars
 
+ - 07-10-2020: **loopeR: Good practices for writing loops in R**, Mateusz Bąkała.
  - 30-09-2020: **Simulating sequences for feature filtering**, Jakub Kała.
  - 23-09-2020: Why R? presentations - general test.
  - 16-09-2020: 
