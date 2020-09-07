@@ -1,7 +1,8 @@
 ## Seminars
 
+ - 21-10-2020: **loopeR: Good practices for writing loops in R**, Mateusz Bąkała.
  - 14-10-2020: **Frontiers of precision medicine**, Stefan Rödiger.
- - 07-10-2020: **loopeR: Good practices for writing loops in R**, Mateusz Bąkała.
+ - 07-09-2020: **Simulating sequences for feature filtering - follow up **, Jakub Kała.
  - 30-09-2020: **Simulating sequences for feature filtering**, Jakub Kała.
  - 23-09-2020: Why R? presentations - general test.
  - 16-09-2020: 
