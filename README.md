@@ -6,7 +6,7 @@
  - 28-10-2020: **tidysq - follow up**, Dominik Rafacz.
  - 21-09-2020: **tidysq**, Dominik Rafacz.
  - 14-10-2020: **Frontiers of precision medicine**, Stefan Rödiger.
- - 07-10-2020: **Simulating sequences for feature filtering - follow up **, Jakub Kała.
+ - 07-10-2020: **Simulating sequences for feature filtering - follow up**, Jakub Kała.
  - 30-09-2020: **Simulating sequences for feature filtering**, Jakub Kała.
  - 23-09-2020: Why R? presentations - general test.
  - 16-09-2020: **BioGenies update #1**, Michał Burdukiewicz.
