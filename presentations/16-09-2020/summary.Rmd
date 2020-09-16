@@ -1,0 +1,79 @@
+---
+title: "BioGenies update #1"
+author: Michal Burdukiewicz
+output: 
+  ioslides_presentation:
+    theme: "simplex"
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+
+<style>
+slides > slide {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+
+</style>
+
+
+## Seminaria
+
+Struktura seminariów:
+
+ - Tydzień 1: prezentacja techniczna.
+ - Międzyczas: intensywne myślenie o tym co było na prezentacji.
+ - Tydzień 2: dyskusja dotycząca prezentacji z tygodnia 1.
+ - Tydzień 3: zwykła prezentacja,
+
+
+## Seminaria
+
+ - 02-12-2020: **BioGenies update #2**, Michał Burdukiewicz.
+ - 25-11-2020: **High-resolution HDX - follow up**, Weronika Puchała.
+ - 18-11-2020: **High-resolution HDX**, Weronika Puchała.
+ - 04-11-2020: **Writing loops in R**, Mateusz Bąkała.
+ - 28-10-2020: **tidysq - follow up**, Dominik Rafacz.
+ - 21-09-2020: **tidysq**, Dominik Rafacz.
+ - 14-10-2020: **Frontiers of precision medicine**, Stefan Rödiger.
+ - 07-10-2020: **Simulating sequences for feature filtering - follow up **, Jakub Kała.
+ - 30-09-2020: **Simulating sequences for feature filtering**, Jakub Kała.
+
+## Seminaria
+
+W grudniu ocenimy, czy było warto tak się męczyć.
+
+## Michałometr
+
+Po prostu jest.
+
+## Biology for data scientists
+
+Przemek G i Dominik przygotują kurs (ok. 3 spotkań, po 1.5h każde) na przełom listopada i grudnia, ale może się opóźnić.
+
+Terminologia po polsku i angielsku.
+
+## Sequence analysis journal club
+
+Środy 9:30 - zachęcam do aktywnego udziału.
+
+## Planowanie konferencji
+
+W grudniu chciałbym porozmawiać o konferencjach w których chcemy wziąć udział.
+
+## Logo
+
+Tyle prezentacji - DSS, Why R?, IBID, a nie mamy logo. 
+
+## Strona
+
+Jaką domenę kupić?
+
