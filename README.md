@@ -1,11 +1,15 @@
 ## Seminars
 
- - 21-10-2020: **loopeR: Good practices for writing loops in R**, Mateusz Bąkała.
+ - 25-11-2020: **High-resolution HDX - follow up**, Weronika Puchała.
+ - 18-11-2020: **High-resolution HDX**, Weronika Puchała.
+ - 04-11-2020: **Writing loops in R**, Mateusz Bąkała.
+ - 28-10-2020: **tidysq - follow up**, Dominik Rafacz.
+ - 21-09-2020: **tidysq**, Dominik Rafacz.
  - 14-10-2020: **Frontiers of precision medicine**, Stefan Rödiger.
- - 07-09-2020: **Simulating sequences for feature filtering - follow up **, Jakub Kała.
+ - 07-10-2020: **Simulating sequences for feature filtering - follow up **, Jakub Kała.
  - 30-09-2020: **Simulating sequences for feature filtering**, Jakub Kała.
  - 23-09-2020: Why R? presentations - general test.
- - 16-09-2020: 
+ - 16-09-2020: **BioGenies update #1**, Michał Burdukiewicz.
  - 09-09-2020: **Evolution of AMPs**, Przemysław Gagat.
  - 02-09-2020: **How to organise a project**, Leon Eyrich Jessen.
  - 26-08-2020: **Using UniProt**, Filip Pietluch.
