@@ -1,5 +1,6 @@
 ## Seminars
 
+ - 02-12-2020: **BioGenies update #2**, Michał Burdukiewicz.
  - 25-11-2020: **High-resolution HDX - follow up**, Weronika Puchała.
  - 18-11-2020: **High-resolution HDX**, Weronika Puchała.
  - 04-11-2020: **Writing loops in R**, Mateusz Bąkała.
