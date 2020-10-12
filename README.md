@@ -1,11 +1,13 @@
 ## Seminars
 
+ - 09-12-2020: **Frontiers of precision medicine**, Stefan Rödiger.
+ - 02-12-2020: **BioGenies update #2**, Michał Burdukiewicz.
  - 25-11-2020: **High-resolution HDX - follow up**, Weronika Puchała.
  - 18-11-2020: **High-resolution HDX**, Weronika Puchała.
  - 04-11-2020: **Writing loops in R**, Mateusz Bąkała.
  - 28-10-2020: **tidysq - follow up**, Dominik Rafacz.
  - 21-10-2020: **tidysq**, Dominik Rafacz.
- - 14-10-2020: **Frontiers of precision medicine**, Stefan Rödiger.
+ - 14-10-2020: 
  - 07-10-2020: **Simulating sequences for feature filtering - follow up**, Jakub Kała.
  - 30-09-2020: **Simulating sequences for feature filtering**, Jakub Kała.
  - 23-09-2020: Why R? presentations - general test.
