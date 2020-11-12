@@ -1,0 +1,104 @@
+---
+title: "BioGenies update #2"
+author: Michal Burdukiewicz
+output: 
+  ioslides_presentation:
+    theme: "simplex"
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+
+<style>
+slides > slide {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+
+</style>
+
+
+## Logo
+
+Gdzie jest moja identyfikacja graficzna?
+
+## Komunikacja
+
+Myślimy bardzo o mattermost.
+
+## Strona
+
+Mamy biogenies.info: http://biogenies.info/
+
+## Granty Michała
+
+| Grant name  | When          | Results       | What                                                                            |
+|-------------|---------------|---------------|---------------------------------------------------------------------------------|
+| Opus 20 LAP | December 2020 | May 2021      | autobiograML                                                                    |
+| Opus 21 LAP | June 2021     | November 2021 | Optimal design of negative datasets in the prediction of antimicrobial peptides |
+| Sonata 17   | December 2021 | May 2022      | autobiograML                                                                    |
+| Lider XIII  | March 2022    | October 2022  | Design of AMPs/amyloids                                                        |
+## autobiograML
+
+The aim of our project is to create autobiograML, an automated machine learning (autoML) tool for protein function analysis. 
+
+Provided with biological sequences and their annotations, autobiograML will automatically produce a tuned predictive model as well as interpretable features relevant for biologists (e.g., which amino acid motifs are associated with the annotation).
+
+## autoML
+
+autoML is a branch of machine learning where the repetitive parts of the machine learning process (selection of the model, tuning) are done automatically. 
+
+A researcher who is using the autoML workflow can focus more on choosing data sets, designing benchmarks, or selecting performance measures to optimize.
+
+
+## Prediction of protein properties
+
+Protein function analysis is a subfield of bioinformatics where we focus on predicting specific properties of proteins using the sequence of amino acids (Lee et al., 2007). 
+
+These properties range from very narrow (e.g., (Molparia et al., 2010) to as broad as the presence and type of functional domains (e.g., (Bryson et al., 2007). 
+
+Properties can be binary (presence or absence of the property) or multiclass (e.g., subcellular localization of the protein).
+
+## autobiograML workflow
+
+Types of problems:
+ 
+1) well-defined motifs
+2) loosely-defined motifs.
+ 
+## loosely-defined motifs
+
+biogram workflow:
+
+1) Extraction of n-grams (seqR).
+2) Selection of optimal simplified alphabets (genetic algorithms).
+3) Selection and tuning of the models (including feature selection).
+
+## Well-defined motifs
+
+1) Selection of a pre-defined protein embedding.
+2) Selection and tuning of the models.
+
+## autobiograML
+
+Input: 
+
+ - sequences with labels.
+ 
+Everything managed by tidysq.
+
+ If there are no labels (or only one label), autobiograML proposes a strategy to generate a negative dataset.
+ 
+## autobiograML
+
+Output: 
+
+ - model.
+ - Shiny app with a model!
