@@ -1,5 +1,6 @@
 ## Journal club
 
+ - 02.12.2020: **DeepCLIP: predicting the effect of mutations on protein–RNA binding with deep learning** by Grønning et al.; speaker: Katarzyna Sidorczuk
  - 04-11-2020: **Continuous Distributed Representation of Biological Sequences for Deep Proteomics and Genomics** by Ehsaneddin Asgari & Mohammad R. K. Mofrad; speaker: Katarzyna Sidorczuk.
  - 21-10-2020: **A novel sequence alignment algorithm based on deep learning of the protein folding code** by Mu Gao and Jeffrey Skolnick; speaker: Jakub Kała.
  - 16-09-2020: **Cross-Validation for Correlated Data** by Assaf Rabinowicz & Saharon Rosset; speaker: Dominik Rafacz.
