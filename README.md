@@ -1,8 +1,8 @@
 ## Seminars
 
  - 27-01-2021: 
- - 20-01-2021: 
- - 13-01-2021: 
+ - 20-01-2021: **Comparing deuteration curves**, Krystyna Grzesiak.
+ - 13-01-2021: **Writing loops in R**, Mateusz Bąkała.
  - 16-12-2020: **Podsumowanie roku**, BioGenies.
  - 09-12-2020: **Frontiers of precision medicine**, Stefan Rödiger.
  - 02-12-2020: **BioGenies update #3**, Michał Burdukiewicz.
