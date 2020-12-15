@@ -1,5 +1,6 @@
 ## Seminars
 
+ - 10-02-2021: **Bayesian optimization in prediction of amyloid proteins**, Paulina Grudzińska.
  - 03-02-2021: **Negative dataset generation**, Michał Burdukiewicz.
  - 27-01-2021: **Low complexity proteins**, Aleksandra Gruca.
  - 20-01-2021: **Comparing deuteration curves**, Krystyna Grzesiak.
