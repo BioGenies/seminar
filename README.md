@@ -5,7 +5,7 @@
  - 03-02-2021: **Generation of negative datasets**, Michał Burdukiewicz.
  - 27-01-2021: **Low complexity proteins**, Aleksandra Gruca.
  - 20-01-2021: **Biology for data scientists**, Dominik Cysewski.
- - 13-01-2021: **Writing loops in R**, Mateusz Bąkała.
+ - 13-01-2021: ~~**Writing loops in R**, Mateusz Bąkała.~~
  - 16-12-2020: **Podsumowanie roku**, BioGenies.
  - 09-12-2020: **Frontiers of precision medicine**, Stefan Rödiger.
  - 02-12-2020: **BioGenies update #3**, Michał Burdukiewicz.
