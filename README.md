@@ -1,5 +1,6 @@
 ## Seminars
 
+ - 24-02-2021: **Deploying apps in shinyproxy on BioGenies web server**, Filip Pietluch.
  - 17-02-2021: **Comparing deuteration curves**, Krystyna Grzesiak.
  - 10-02-2021: 
  - 03-02-2021: **Generation of negative datasets**, Michał Burdukiewicz.
