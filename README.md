@@ -2,7 +2,7 @@
 
  - 24-02-2021: **Deploying apps in shinyproxy on BioGenies web server**, Filip Pietluch.
  - 17-02-2021: **Comparing deuteration curves**, Krystyna Grzesiak.
- - 10-02-2021: 
+ - 10-02-2021: **k-mer space as an efficient representation  of biological sequences**, Jadwiga Słowik.
  - 03-02-2021: **Generation of negative datasets**, Michał Burdukiewicz.
  - 27-01-2021: **Low complexity proteins**, Aleksandra Gruca.
  - 20-01-2021: **Biology for data scientists**, Dominik Cysewski.
