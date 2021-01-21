@@ -1,8 +1,8 @@
 ## Journal club
 
 
- - 10-02-2021: **Selene: a PyTorch-based deep learning library for sequence data** by Kathleen M. Chen et al.; speaker: .
- - 27-01-2021: **Predicting bacterial virulence factors – evaluation of machine learning and negative data strategies** by Robert Rentzsch et al.; speaker: Dominik Rafacz.
+ - 17-02-2021: **Selene: a PyTorch-based deep learning library for sequence data** by Kathleen M. Chen et al.; speaker: .
+ - 10-02-2021: **Predicting bacterial virulence factors – evaluation of machine learning and negative data strategies** by Robert Rentzsch et al.; speaker: Dominik Rafacz.
  - 13-01-2021: **A novel sequence alignment algorithm based on deep learning of the protein folding code** by Mu Gao and Jeffrey Skolnick; speaker: Jakub Kała.
  - 02-12-2020: **DeepCLIP: predicting the effect of mutations on protein–RNA binding with deep learning** by Grønning et al.; speaker: Katarzyna Sidorczuk
  - 04-11-2020: **Continuous Distributed Representation of Biological Sequences for Deep Proteomics and Genomics** by Ehsaneddin Asgari & Mohammad R. K. Mofrad; speaker: Katarzyna Sidorczuk.
