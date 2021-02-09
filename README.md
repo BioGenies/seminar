@@ -1,5 +1,6 @@
 ## Seminars
 
+ - 14-04-2021: **High resolution HDX-MS - follow up**, Weronika Puchała.
  - 07-04-2021: **High resolution HDX-MS**, Weronika Puchała.
  - 31-03-2021: **BioGenies update #4**, Michał Burdukiewicz.
  - 24-03-2021: **Improved metagenome binning and assembly using deep variational autoencoders**, Simon Rasmussen.
