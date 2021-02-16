@@ -3,7 +3,7 @@
  - 05-05-2021: 
  - 28-04-2021: **Comparing deuteration curves**, Krystyna Grzesiak.
  - 21-04-2021: **ampir: an R package for fast genome-wide prediction of antimicrobial peptides**, Ira Cooke.
- - 14-04-2021: **High resolution HDX-MS - follow up**, Weronika Puchała.
+ - 14-04-2021: 
  - 07-04-2021: **High resolution HDX-MS**, Weronika Puchała.
  - 31-03-2021: **BioGenies update #4**, Michał Burdukiewicz.
  - 24-03-2021: **Improved metagenome binning and assembly using deep variational autoencoders**, Simon Rasmussen.
