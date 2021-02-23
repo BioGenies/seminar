@@ -1,15 +1,21 @@
 ## Seminars
 
+ - 16-06-2021: **TBA**, Michał Łaźniewski. 
+ - 09-06-2021: 
+ - 02-06-2021: 
+ - 26-05-2021: 
+ - 19-05-2021: 
+ - 12-05-2021: 
  - 05-05-2021: 
  - 28-04-2021: **Comparing deuteration curves**, Krystyna Grzesiak.
  - 21-04-2021: **ampir: an R package for fast genome-wide prediction of antimicrobial peptides**, Ira Cooke.
- - 14-04-2021: 
+ - 14-04-2021: no seminar, only update.
  - 07-04-2021: **High resolution HDX-MS**, Weronika Puchała.
  - 31-03-2021: **BioGenies update #4**, Michał Burdukiewicz.
  - 24-03-2021: **Improved metagenome binning and assembly using deep variational autoencoders**, Simon Rasmussen.
  - 17-03-2021: **Filtering k-mer matrices - follow up**, Jakub Kała.
  - 10-03-2021: **Filtering k-mer matrices**, Jakub Kała.
- - 03-03-2021: **TBA**, Michał Łaźniewski.
+ - 03-03-2021: 
  - 24-02-2021: **Deploying apps in shinyproxy on BioGenies web server**, Filip Pietluch.
  - 17-02-2021: **Comparing deuteration curves**, Krystyna Grzesiak.
  - 10-02-2021: **k-mer space as an efficient representation  of biological sequences**, Jadwiga Słowik.
