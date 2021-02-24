@@ -15,7 +15,7 @@
  - 24-03-2021: **Improved metagenome binning and assembly using deep variational autoencoders**, Simon Rasmussen.
  - 17-03-2021: **Filtering k-mer matrices - follow up**, Jakub Kała.
  - 10-03-2021: **Filtering k-mer matrices**, Jakub Kała.
- - 03-03-2021: 
+ - 03-03-2021: **MegaGO: a fast yet powerful approach to assess functional gene ontology similarity across meta-omics data sets**, Henning Schiebenhöfer.
  - 24-02-2021: **Deploying apps in shinyproxy on BioGenies web server**, Filip Pietluch.
  - 17-02-2021: **Comparing deuteration curves**, Krystyna Grzesiak.
  - 10-02-2021: **k-mer space as an efficient representation  of biological sequences**, Jadwiga Słowik.
