@@ -1,7 +1,7 @@
 ## Seminars
 
  - 16-06-2021: **TBA**, Michał Łaźniewski. 
- - 09-06-2021: 
+ - 09-06-2021: **BioGenies update #5**, Michał Burdukiewicz.
  - 02-06-2021: 
  - 26-05-2021: 
  - 19-05-2021: 

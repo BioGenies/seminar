@@ -1,5 +1,6 @@
 ## Journal club
 
+ - 17-03-2021: **A variable selection approach for highly correlated predictors in high-dimensional genomic data** by Wencan Zhu et al.; speaker: Krystyna Grzesiak.
  - 03-03-2021: **autoBioSeqpy: A Deep Learning Tool for the Classification of Biological Sequences** by Runyu Jing et al.; speaker: Katarzyna Sidorczuk.
  - 24-02-2021: **Predicting bacterial virulence factors – evaluation of machine learning and negative data strategies** by Robert Rentzsch et al.; speaker: Dominik Rafacz. 
  - 17-02-2021: **Selene: a PyTorch-based deep learning library for sequence data** by Kathleen M. Chen et al.; speaker: Jakub Kała.
