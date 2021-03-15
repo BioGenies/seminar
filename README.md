@@ -2,7 +2,7 @@
 
 1. 16-06-2021: **TBA**, Michał Łaźniewski. 
 1. 09-06-2021: **BioGenies update #5**, Michał Burdukiewicz.
-1. 02-06-2021: 
+1. 02-06-2021: **Bioinformatic and experimental analyses of bacterial functional amyloids CsgA and CsgB**, Jarosław Chilimoniuk.
 1. 26-05-2021: 
 1. 19-05-2021: 
 1. 12-05-2021: 
