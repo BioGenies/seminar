@@ -1,6 +1,6 @@
 ## Journal club
 
-1. 21-04-2021: **How to design the fair experimental classifier evaluation**, by Katarzyna Stapor et al.; speaker: Filip Pietluch.
+1. 27-04-2021: **How to design the fair experimental classifier evaluation**, by Katarzyna Stapor et al.; speaker: Filip Pietluch.
 1. 07-04-2021: **ampir: an R package for fast genome-wide prediction of antimicrobial peptides** by Legana C H W Fingerhut et al.; speaker: Katarzyna Sidorczuk.
 1. 17-03-2021: **A variable selection approach for highly correlated predictors in high-dimensional genomic data** by Wencan Zhu et al.; speaker: Krystyna Grzesiak.
 1. 03-03-2021: **autoBioSeqpy: A Deep Learning Tool for the Classification of Biological Sequences** by Runyu Jing et al.; speaker: Katarzyna Sidorczuk.
