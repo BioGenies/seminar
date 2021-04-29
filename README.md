@@ -5,7 +5,7 @@
 1. 09-06-2021: **BioGenies update #5**, Michał Burdukiewicz.
 1. 02-06-2021: **Bioinformatic and experimental analyses of bacterial functional amyloids CsgA and CsgB**, Jarosław Chilimoniuk.
 1. 26-05-2021: 
-1. 19-05-2021: 
+1. 19-05-2021: **Comparing deuteration curves**, Krystyna Grzesiak.
 1. 12-05-2021: **LILO: a database of biological learners**, Michał Burdukiewicz.
 1. 05-05-2021: **Ocena jakości nadzorowanych metod uczenia klasyfikacji**, Katarzyna Stapor.
 1. 28-04-2021: **Comparing deuteration curves**, Krystyna Grzesiak.
