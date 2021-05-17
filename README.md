@@ -1,5 +1,6 @@
 ## Seminars
 
+1. 30-06-2021: **OpenPGX: a personalized approach to pharmacogenomics recommendations**, Monika Krzyżanowska.
 1. 23-06-2021: **Filtering k-mer matrices - master thesis**, Jakub Kała.
 1. 16-06-2021: **TBA**, Michał Łaźniewski. 
 1. 09-06-2021: **BioGenies update #5**, Michał Burdukiewicz.
