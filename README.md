@@ -1,5 +1,6 @@
 ## Seminars
 
+1. 21-07-2021: **How to eat ice cream?**, Dominik Rafacz.
 1. 14-07-2021: **BioGenies update #5**, Michał Burdukiewicz.
 1. 07-07-2021: 
 1. 30-06-2021: **OpenPGX: a personalized approach to pharmacogenomics recommendations**, Monika Krzyżanowska.
