@@ -4,8 +4,8 @@
 1. 21-07-2021: **How to eat ice cream?**, Dominik Rafacz.
 1. 14-07-2021: **BioGenies update #5**, Michał Burdukiewicz.
 1. 07-07-2021: **OpenPGX: a personalized approach to pharmacogenomics recommendations**, Monika Krzyżanowska.
-1. 30-06-2021: **Comparing deuteration curves**, Krystyna Grzesiak.
-1. 23-06-2021: **Filtering k-mer matrices - master thesis**, Jakub Kała.
+1. 30-06-2021: **Filtering k-mer matrices - master thesis**, Jakub Kała.
+1. 23-06-2021: **Comparing deuteration curves**, Krystyna Grzesiak.
 1. 16-06-2021: **TBA**, Michał Łaźniewski. 
 1. 09-06-2021: **Filtering k-mer matrices - master thesis**, Jakub Kała.
 1. 02-06-2021: **Bioinformatic and experimental analyses of bacterial functional amyloids CsgA and CsgB**, Jarosław Chilimoniuk.
