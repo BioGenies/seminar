@@ -1,5 +1,6 @@
 ## Seminars
 
+1. 18-08-2021: **Elevator pitch**, BioGenies. 
 1. 11-08-2021: **Wstęp do modeli liniowych**, Krystyna Grzesiak. 
 1. 04-08-2021: **TBA**, Michał Łaźniewski. 
 1. 28-07-2021: **PlastoGram**, Katarzyna Sidorczuk.
