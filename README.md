@@ -6,6 +6,7 @@
 1. 28-07-2021: **PlastoGram**, Katarzyna Sidorczuk.
 1. 21-07-2021: **How to eat ice cream?**, Dominik Rafacz.
 1. 14-07-2021: **BioGenies update #5: Year One**, Michał Burdukiewicz.
+1. 12-07-2021: **Computational modeling of protein-protein complexes with therapeutic binding proteins**, Filip Radom.
 1. 07-07-2021: **OpenPGX: a personalized approach to pharmacogenomics recommendations**, Monika Krzyżanowska.
 1. 30-06-2021: **Filtering k-mer matrices - master thesis**, Jakub Kała.
 1. 23-06-2021: Genomics Platform@WUT conference.
