@@ -1,0 +1,119 @@
+---
+title: "BioGenies update #5: Year One"
+author: Michal Burdukiewicz
+output: 
+  ioslides_presentation:
+    theme: "simplex"
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+
+<style>
+slides > slide {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+
+</style>
+
+# Co się zdarzyło?
+
+## Wspaniałe rzeczy
+
+ - Memodżinołajki
+ - Seminaria
+ - Wyjazd integracyjny
+ - LILOP
+ - podwieczorki
+
+## Projekty
+
+Zrobiliśmy mnóstwo badań:
+
+ - zbiory negatywne
+ - test semiparametryczny dla danych z HDX-MS
+ - nowa wersja HaDeXa
+ - AmyloGraph
+ - IAOPeptideReader
+ - seqR
+ - AMPyloids
+ - warianty CsgA
+ - tidysq
+ 
+## Co się z tego opublikowało?
+
+Nic.
+
+## Czy w projektach jest za mało ludzi?
+
+```{r,echo=FALSE,message=FALSE}
+library(ggplot2)
+library(dplyr)
+data.frame(name = c("zbiory negatywne", "test semiparametryczny",
+                    "nowa wersja HaDeXa", "Niepewność w HDX-MS", "AmyloGraph",
+                    "IAOPeptideReader", "seqR", "AMPyloids",
+                    "warianty CsgA", "tidysq"),
+           n = c(7, 2, 1, 1, 14, 2, 1, 3, 1, 2)) %>% 
+  ggplot(aes(x = name, y = n)) +
+  geom_col() +
+  scale_x_discrete("Nazwa") +
+  scale_y_continuous("Liczba osób") +
+  coord_flip() +
+  theme_bw()
+
+```
+
+## Czy w projektach jest za mało ludzi?
+
+Nie, w projektach jest dość ludzi.
+
+## To czemu to idzie tak wolno?
+
+<img src="https://static.tvtropes.org/pmwiki/pub/images/sa_0202_small.png">
+
+## Czym się zajmuję?
+
+> 1. Narzekam.
+> 2. Czytam publikacje.
+> 4. Piszę maile do ludzi.
+> 3. Planuję badania.
+> 5. Planuję publikacje.
+> 6. Piszę publikacje.
+> 7. Piszę granty.
+> 7. Mylę się i robię punkty od 4 do 7 jeszcze raz.
+
+## Dlaczego to jest takie nieefektywne?
+
+Przerzucam się kilka razy między projektami jednego dnia.
+
+Mam bardzo mało czasu na indywidualną pracę, a kiedy już go mam (wtorek, czwartek) to nie mam na nią sił.
+
+# Jak efektywnie pracować?
+
+## Kończyć projekty
+
+Nie chcę zaczynać projektów nie skończywszy innych. 
+
+## Mniej się spotykać
+
+Spotkania pomagają mi zorientować się w postępach prac i koordynować wysiłki, ale nie mogę wtedy sam pisać.
+
+## Robić więcej notatek
+
+Notatki z projektów są zbyt zdawkowe i tracę kontrolę nad tym co się powiedziało/pomyślało.
+
+## Formułować precyzyjniej zadania
+
+Wykorzystać github projects, żeby mieć listę zadań i ich postęp w obrębie projektów.
+
+## Pamiętać
+
+Poświęcać codziennie więcej czasu na czytanie list zadań i spraw do załatwienia.
