@@ -1,16 +1,26 @@
 ## Seminars
 
-1. 16-06-2021: **TBA**, Michał Łaźniewski. 
-1. 09-06-2021: **BioGenies update #5**, Michał Burdukiewicz.
+1. 18-08-2021: **Elevator pitch**, BioGenies. 
+1. 11-08-2021: **Wstęp do modeli liniowych**, Krystyna Grzesiak. 
+1. 04-08-2021: **Is the human genome 3D structure an inherited trait?**, Michał Łaźniewski. 
+1. 28-07-2021: **PlastoGram**, Katarzyna Sidorczuk.
+1. 21-07-2021: **How to eat ice cream?**, Dominik Rafacz.
+1. 14-07-2021: **BioGenies update #5: Year One**, Michał Burdukiewicz.
+1. 12-07-2021: **Computational modeling of protein-protein complexes with therapeutic binding proteins**, Filip Radom.
+1. 07-07-2021: **OpenPGX: a personalized approach to pharmacogenomics recommendations**, Monika Krzyżanowska.
+1. 30-06-2021: **Filtering k-mer matrices - master thesis**, Jakub Kała.
+1. 23-06-2021: Genomics Platform@WUT conference.
+1. 16-06-2021: **Comparing deuteration curves**, Krystyna Grzesiak.
+1. 09-06-2021: no seminar, only update.
 1. 02-06-2021: **Bioinformatic and experimental analyses of bacterial functional amyloids CsgA and CsgB**, Jarosław Chilimoniuk.
-1. 26-05-2021: 
-1. 19-05-2021: 
-1. 12-05-2021: 
-1. 05-05-2021: 
+1. 26-05-2021: **A3D 2.0 update for the prediction and optimization of protein solubility**, Jordi Pujols, Valentín Iglesias.
+1. 19-05-2021: **Comparing deuteration curves**, Krystyna Grzesiak.
+1. 12-05-2021: **LILO: a database of biological learners**, Michał Burdukiewicz.
+1. 05-05-2021: **Ocena jakości nadzorowanych metod uczenia klasyfikacji**, Katarzyna Stapor.
 1. 28-04-2021: **Comparing deuteration curves**, Krystyna Grzesiak.
 1. 21-04-2021: **ampir: an R package for fast genome-wide prediction of antimicrobial peptides**, Legana C H W Fingerhut, Ira Cooke.
 1. 14-04-2021: no seminar, only update.
-1. 07-04-2021: **High resolution HDX-MS**, Weronika Puchała.
+1. 07-04-2021: **Uncertainties in HDX-MS measurements**, Weronika Puchała.
 1. 31-03-2021: **BioGenies update #4**, Michał Burdukiewicz.
 1. 24-03-2021: **Improved metagenome binning and assembly using deep variational autoencoders**, Simon Rasmussen.
 1. 17-03-2021: **Filtering k-mer matrices - follow up**, Jakub Kała.

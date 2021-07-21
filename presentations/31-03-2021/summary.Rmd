@@ -1,0 +1,79 @@
+---
+title: "BioGenies update #4"
+author: Michal Burdukiewicz
+output: 
+  ioslides_presentation:
+    theme: "simplex"
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+
+<style>
+slides > slide {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+
+</style>
+
+## Strona
+
+**Jakub** zrobił - a ja?
+
+## Biologia dla nie-biologów
+
+Odbyła się! Gratulacje dla prelegentów: Dominik Cysewski, Przemysław Gagat, Paweł Mackiewicz.
+
+## Journal club
+
+Dalej nie wiem jak to zrobić, aby się odbywał często a nie był za dużym obciążeniem.
+
+## Struktura seminariów
+
+Czy rezygnacja z follow-upów sprawiła, że seminaria stały się przystępniejsze?
+
+Czy mamy za wielu/za mało gości?
+
+## Sukcesy
+
+ - obrony! Magistrowie i inżynierowie!
+ - Stypendium Ministra dla Dominika (i Erasmus na DTU)
+ - Daina przeszła przez pierwszy etap (i pewnie odpadnie, ale prawdziwy sukces grantu to ludzie, których poznajemy podczas jego składania)
+ - dopiąłem bardzo dużo formalności!
+
+## Grants
+
+| Grant name  | When          | Results       | What                                                                            |Done? |
+|-------------|---------------|---------------|---------------------------------------------------------------------------------|------|
+| Opus 20 LAP | December 2020 | May 2021      | autobiograML                                                                    |FALSE |
+| Lider XII   | March 2021    | October 2021  | Design of AMPs/amyloids                                                         |TRUE  |
+| Opus 21 LAP | June 2021     | November 2021 | autobiograML                                                                    |      |
+| Sonata 17   | December 2021 | May 2022      | autobiograML                                                                    |      |
+| Lider XIII  | March 2022    | October 2022  | Design of AMPs/amyloids                                                         |      |
+
+## Publikacje
+
+To planowałem w grudniu - na razie nic z tego nie zostało nawet wysłane.
+
+ - tidysq!
+ - zbiory negatywne,
+ - baza PhyloPlas,
+ - przeglądówka HR-HDX,
+ - test HR-HDX,
+ - AmyloGram 2.0.
+ 
+Za to opublikowało się MegaGO, Countfitter (argh!) i eksperymentalna walidacja AmyloGramu.
+
+## Ogłoszenia
+ 
+ - Dni Matematyki 2021 (23-24.04.2021) - Krysia, Jakub i Paulina prowadzą warsztaty (wprowadzenie do R/MBO). 
+ - 16.04.2021 prezentuję zastosowania metod obliczeniowych w metabolomice - zapraszam do uczestnictwa.
+ - 23.06.2021 odbywa się konferencja Platformy Genomiki PW - zapraszam do udziału.
