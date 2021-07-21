@@ -1,5 +1,6 @@
 ## Seminars
 
+1. 25-08-2021: **How to organize projects?**, Krystyna Grzesiak & Weronika Puchała. 
 1. 18-08-2021: **Elevator pitch**, BioGenies. 
 1. 11-08-2021: **Wstęp do modeli liniowych**, Krystyna Grzesiak. 
 1. 04-08-2021: **Is the human genome 3D structure an inherited trait?**, Michał Łaźniewski. 
