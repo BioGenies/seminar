@@ -1,8 +1,9 @@
 ## Seminars
 
+1. 01-09-2021: **Wstęp do modeli liniowych**, Krystyna Grzesiak. 
 1. 25-08-2021: **How to organize projects?**, Krystyna Grzesiak & Weronika Puchała. 
 1. 18-08-2021: **Elevator pitch**, BioGenies. 
-1. 11-08-2021: **Wstęp do modeli liniowych**, Krystyna Grzesiak. 
+1. 11-08-2021: **Wstęp do wstępu do modeli liniowych**, Krystyna Grzesiak. 
 1. 04-08-2021: **Is the human genome 3D structure an inherited trait?**, Michał Łaźniewski. 
 1. 28-07-2021: **PlastoGram**, Katarzyna Sidorczuk.
 1. 21-07-2021: **How to eat ice cream?**, Dominik Rafacz.
