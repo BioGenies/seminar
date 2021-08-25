@@ -1,0 +1,78 @@
+---
+title: "Next grants"
+author: Michal Burdukiewicz
+output: 
+  ioslides_presentation:
+    theme: "simplex"
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+
+<style>
+slides > slide {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+
+</style>
+
+# Granty
+
+## Jak możemy pozyskiwać fundusze?
+
+1. Duże wdrożeniowe UMB.
+2. Małe wdrożeniowe UMB.
+3. Sonata.
+4. Lider.
+5. Preludium Bis.
+
+## Duże wdrożeniowe UMB
+
+Złożone - skanibalizowany PeptideSculptor z Lidera + nowe AMP.
+
+Kto: Dominik, Laura, Jadwiga, Krysia, Weronika.
+
+## Małe wdrożeniowe UMB
+
+Propozycja: autobiograML na budowanie modeli predykcyjnych. 
+
+Walidacja eksperymentalna? Warto, ale...
+
+ - AMP nam średnio wychodzą, a na UMB brak kontaktu.
+ - amyloidy nie brzmią mocno aplikacyjnie, chyba, że gramy kartą mapranosis
+ 
+Kto: Dominik, Laura, Jakub, Krysia, Weronika.
+ 
+## Sonata
+
+Propozycja: LILOP.
+
+Wady? Trzeba zrobić konsorcjum z PW, więc Michał ma więcej biurokracji.
+
+Kto: 2x doktorant + usługi.
+
+## Lider
+
+Propozycja: PeptideSculptor.
+
+Zalety: mamy to napisane i mamy partnerów biznesowych.
+
+Wady: Brak funduszy na analizę rynku, trzeba bardzo dużo rozmawiać z BTT na UMB.
+
+Kto: Dominik, Laura, Jakub, Krysia, Weronika.
+
+## Preludium Bis
+
+Propozycja: efektywne budowanie macierzy n-gramowych
+
+Wady: nie mamy nic napisanego.
+
+Kto: Krysia, Jakub.
