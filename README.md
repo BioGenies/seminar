@@ -2,6 +2,7 @@
 
 
 1. 06-10-2021: **Rozwój narzędzi do racjonalnego projektowania leków peptydowych**, Sebastian Kmiecik.
+1. 29-09-2021: 
 1. 22-09-2021: no seminar, only update.
 1. 15-09-2021: **AmyloGraph: a comprehensive database of amyloid-amyloid interactions**, Michał Burdukiewicz. 
 1. 08-09-2021: **How to organize projects?**, Krystyna Grzesiak & Weronika Puchała. 
