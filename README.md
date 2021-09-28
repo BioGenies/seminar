@@ -2,7 +2,7 @@
 
 
 1. 06-10-2021: **Protein-peptide docking in the era of accurate structure-prediction**, Sebastian Kmiecik.
-1. 29-09-2021: **How to organize projects?**, Krystyna Grzesiak & Weronika Puchała. 
+1. 29-09-2021: **Why my research is bad?**, Michał Burdukiewicz. 
 1. 22-09-2021: no seminar, only update.
 1. 15-09-2021: **AmyloGraph: a comprehensive database of amyloid-amyloid interactions**, Michał Burdukiewicz. 
 1. 08-09-2021: 
