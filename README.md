@@ -1,6 +1,8 @@
 ## Seminars
 
-
+1. 27-10-2021: **LILO: a database of biological learners**, Michał Burdukiewicz.
+1. 20-10-2021:
+1. 13-10-2021: 
 1. 06-10-2021: **Protein-peptide docking in the era of accurate structure-prediction**, Sebastian Kmiecik.
 1. 29-09-2021: **Why my research is bad?**, Michał Burdukiewicz. 
 1. 22-09-2021: no seminar, only update.
