@@ -1,5 +1,6 @@
 ## Seminars
 
+1. 03-11-2021: **Blood-brain barrier peptides**, Michał Burdukiewicz.
 1. 27-10-2021: **LILO: a database of biological learners**, Michał Burdukiewicz.
 1. 20-10-2021:
 1. 13-10-2021: 
