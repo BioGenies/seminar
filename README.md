@@ -15,7 +15,7 @@
 1. 29-09-2021: **Why my research is bad?**, Michał Burdukiewicz. 
 1. 22-09-2021: no seminar, only update.
 1. 15-09-2021: **AmyloGraph: a comprehensive database of amyloid-amyloid interactions**, Michał Burdukiewicz. 
-1. 08-09-2021: 
+1. 08-09-2021: **Novel project managment**, Krystyna Grzesiak, Weronika Puchała.
 1. 01-09-2021: **Wstęp do modeli liniowych**, Krystyna Grzesiak. 
 1. 25-08-2021: **Next grants**, Michał Burdukiewicz. 
 1. 18-08-2021: **Elevator pitch**, BioGenies. 
