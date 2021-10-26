@@ -5,7 +5,7 @@
 1. 08-12-2021:
 1. 01-12-2021: 
 1. 24-11-2021: 
-1. 17-11-2021: 
+1. 17-11-2021: **Peptipedia**, David Medina-Ortiz (possible time: 3 PM UTC+2).
 1. 10-11-2021: 
 1. 03-11-2021: **Blood-brain barrier peptides**, Michał Burdukiewicz.
 1. 27-10-2021: **LILO: a database of biological learners**, Michał Burdukiewicz.
