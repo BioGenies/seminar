@@ -8,7 +8,7 @@
 1. 17-11-2021: **Peptipedia**, David Medina-Ortiz (possible time: 3 PM UTC+2).
 1. 10-11-2021: 
 1. 03-11-2021: **Blood-brain barrier peptides**, Michał Burdukiewicz.
-1. 27-10-2021: **LILOP: a database of biological learners**, Michał Burdukiewicz.
+1. 27-10-2021: **LILOP 2.0: I am choosing my hair color**, Michał Burdukiewicz.
 1. 20-10-2021: **Poster session at IBB**, BioGenies.
 1. 13-10-2021: **My own github profile readme**, Michał Burdukiewicz.
 1. 06-10-2021: **Protein-peptide docking in the era of accurate structure-prediction**, Sebastian Kmiecik.
