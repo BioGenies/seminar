@@ -1,6 +1,6 @@
 ## Seminars
 
-
+1. 22-12-2021: **TBA**, Paweł Mackiewicz.
 1. 15-12-2021: **BioGenies update #6**, Michał Burdukiewicz.
 1. 08-12-2021:
 1. 01-12-2021: 
