@@ -6,7 +6,8 @@
 1. 01-12-2021: 
 1. 24-11-2021: 
 1. 17-11-2021: **Peptipedia**, David Medina-Ortiz (new time: 3 PM UTC+2).
-1. 10-11-2021: 
+1. 10-11-2021: **Building HMM and molecular docking analysis for the sensitive detection of anti-viral pneumonia antimicrobial peptides (AMPs)**, 
+Olalekan Bakare.
 1. 03-11-2021: **Blood-brain barrier peptides**, Michał Burdukiewicz.
 1. 27-10-2021: **LILOP 2.0: I am choosing my hair color**, Michał Burdukiewicz.
 1. 20-10-2021: **Poster session at IBB**, BioGenies.
