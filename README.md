@@ -4,7 +4,7 @@
 1. 15-12-2021: **BioGenies update #6**, Michał Burdukiewicz.
 1. 08-12-2021:
 1. 01-12-2021: **Applications of automated data quality curation in machine learning based modelling of immunoinformatic systems: Episode One**, Dominik Rafacz.
-1. 24-11-2021: 
+1. 24-11-2021: **adhesiomeR**, Katarzyna Sidorczuk.
 1. 17-11-2021: **Peptipedia**, David Medina-Ortiz (new time: 3 PM UTC+2).
 1. 10-11-2021: **Building HMM and molecular docking analysis for the sensitive detection of anti-viral pneumonia antimicrobial peptides (AMPs)**, 
 Olalekan Bakare.
