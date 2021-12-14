@@ -1,0 +1,58 @@
+---
+title: "BioGenies update #6"
+author: Michal Burdukiewicz
+output: 
+  ioslides_presentation:
+    theme: "simplex"
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+
+<style>
+slides > slide {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+
+</style>
+
+# Organizacyjnie
+
+## Logo
+
+Gdzie jest moja identyfikacja graficzna? 
+ - logo,
+ - temat dla prezentacji,
+ - temat dla posterów.
+ 
+Wybierzmy logo do końca roku.
+
+## Komunikacja
+
+Zostaje chanty.
+
+## Strona
+
+Mamy biogenies.info: http://biogenies.info/
+
+<img src="figures/strona.png" width="800">
+
+I nigdy tego nie ruszyłem!
+
+## Journal club
+
+Nie wiem jak to zrobić, aby się odbywał często a nie był za dużym obciążeniem.
+
+# Podsumowania
+
+## Granty
+
+Krysia umie w OSF
