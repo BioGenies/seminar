@@ -29,11 +29,12 @@ slides > slide {
 ## Logo
 
 Gdzie jest moja identyfikacja graficzna? 
+
  - logo,
  - temat dla prezentacji,
  - temat dla posterów.
  
-Wybierzmy logo do końca roku.
+Ale **Dominik** zrobił genialne tło dla AmyloGraphu i może tak trzeba (?).
 
 ## Komunikacja
 
@@ -42,8 +43,6 @@ Zostaje chanty.
 ## Strona
 
 Mamy biogenies.info: http://biogenies.info/
-
-<img src="figures/strona.png" width="800">
 
 I nigdy tego nie ruszyłem!
 
@@ -78,22 +77,30 @@ Krysia umie w OSF
 
 - tyle interpretacji regulaminów NCNu ile uczelni
 
+## Granty
 
+Złożyłem wszystkie zaplanowane granty (Lider, OPUS, stypendium Bekkera, Sonata) i niezaplanowane (stypendium Marii Zambrano).
 
+Jeden z nich dostałem!
 
+## Publikacje
 
+Strasznie źle, każdy projekt się przeciągnął. Nie umiem egzekwować od siebie deadlineów i za dużo biorę na siebie. 
 
+Łącznie: 7 publikacji w 2021, w tym jedna super ważna (pierwszoautorski countfiteR Jarka).
 
+## Sukcesy
 
+ - Laura i Dominik już po inżynierce
+ - Jarek ma pierwszoautorski papier
+ - zbiory negatywne u wewnętrznych recenzentów
+ - mam w końcu grant
+ - mam w końcu patent
 
+## Porażki
 
-
-
-
-
-
-
-
-
-
-
+ - Weronika bez publikacji w tym roku
+ - Krystyna bez publikacji w ogóle
+ - AmyloGraph wciąż w pracach
+ - PhyloPlas wciąż w pracach
+ - brak finansowania na innych
