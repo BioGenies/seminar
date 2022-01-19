@@ -1,6 +1,7 @@
 ## Seminars
 
-1. 19-01-2021: **New Year's Resolutions**, Michał Burdukiewicz.
+1. 27-01-2022: **protti: an R package for comprehensive data analysis of peptide- and protein-centric bottom-up proteomics data**, Jan-Philipp Quast. 
+1. 19-01-2022: **New Year's Resolutions**, Michał Burdukiewicz.
 1. 22-12-2021: **Memomikołajki**, BioGenies.
 1. 15-12-2021: **BioGenies update #6**, Michał Burdukiewicz.
 1. 08-12-2021: **Molecular Insights into the Differential Dynamics of SARS-CoV-2 Variants of Concern (VOC)**, Nabanita Mandal.
