@@ -1,0 +1,63 @@
+---
+title: "Postanowienia noworoczne"
+author: Michal Burdukiewicz
+output: 
+  ioslides_presentation:
+    theme: "simplex"
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+
+<style>
+slides > slide {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+
+</style>
+
+
+## Mój czas
+
+Zostawiam stałe spotkania tylko na projekty wiodące, na pozostałe umawiamy się używając calendly: calendly.com/michbur 
+
+## Lista osiągnięć
+
+Wracamy do spisywania wspólnych osiągnięć. I zaczynam od siebie!
+
+## Projekty wiodące
+
+ - AmyloGraph (będę prowadził zajęcia, piszę grant, nowa wersja bazy itp.)
+ - analiza danych HDX-MS (nadrabiam zaległości publikacyjne)
+ - PZH
+ 
+Każdy wiodący projekt ma swój dzień.
+ 
+## Zobowiązania na ten rok
+
+1. Wysłać zbiory negatywne
+2. Skończyć i wysłać AmyloGraph
+3. Skończyć i wysłać HaDeX 2.0 i niepewności w HDX.
+4. Mieć działający algorytm wysokorozdzielczy do HDX.
+5. Złożyć habilitację.
+6. Rodzielać nagrody tygodniowe.
+7. Zrobić najlepszy wyjazd integracyjny na świecie.
+
+
+## Kiedy zaczynam?
+
+W lutym.
+
+## Czego nie umiem?
+
+1. Zaplanować journal clubu.
+2. Organizować podwieczorki.
+

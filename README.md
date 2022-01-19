@@ -1,6 +1,6 @@
 ## Seminars
 
-1. 05-01-2021: 
+1. 19-01-2021: **New Year's Resolutions**, Michał Burdukiewicz.
 1. 22-12-2021: **Memomikołajki**, BioGenies.
 1. 15-12-2021: **BioGenies update #6**, Michał Burdukiewicz.
 1. 08-12-2021: **Molecular Insights into the Differential Dynamics of SARS-CoV-2 Variants of Concern (VOC)**, Nabanita Mandal.
