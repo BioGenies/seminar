@@ -1,5 +1,7 @@
 ## Seminars
 
+1. 16-02-2022: no seminar, only update.
+1. 09-02-2022: 
 1. 02-02-2022: **AmyloGraph: Michał nie umie w zarządzanie**, Michał Burdukiewicz. 
 1. 26-01-2022: **protti: an R package for comprehensive data analysis of peptide- and protein-centric bottom-up proteomics data**, Jan-Philipp Quast. 
 1. 19-01-2022: **New Year's Resolutions**, Michał Burdukiewicz.
