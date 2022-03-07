@@ -1,5 +1,11 @@
 ## Seminars
 
+1. 28-03-2022: **Peer-review principles**, Michał Burdukiewicz.
+1. 21-03-2022: 
+1. 14-03-2022: 
+1. 07-03-2022: **Michał talks about things**, Michał Burdukiewicz.
+1. 07-03-2022: **Michał talks about things**, Michał Burdukiewicz.
+1. 02-03-2022: no seminar, only update.
 1. 16-02-2022: no seminar, only update.
 1. 09-02-2022: 
 1. 02-02-2022: **AmyloGraph: Michał nie umie w zarządzanie**, Michał Burdukiewicz. 
