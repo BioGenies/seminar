@@ -1,13 +1,18 @@
 ## Seminars
 
+1. 25-05-2022: **Golem**, Dominik Rafacz & Gustav Meyrink.
+1. 16-05-2022: **Modularizing Shiny**, Dominik Rafacz.
+1. 09-05-2022: **Shiny tricks**, Shinykrysia Grzesiak.
+1. 25-04-2022: **Shiny intro**, Michał Burdukiewicz.
+1. 11-04-2022: **Effective presentations**, Mariusz Trojanowski.
+1. 04-04-2022: no seminar, only update.
 1. 28-03-2022: **Peer-review principles**, Michał Burdukiewicz.
-1. 21-03-2022: 
-1. 14-03-2022: 
-1. 07-03-2022: **Michał talks about things**, Michał Burdukiewicz.
+1. 21-03-2022: no seminar, only update.
+1. 14-03-2022: no seminar, only update.
 1. 07-03-2022: **Michał talks about things**, Michał Burdukiewicz.
 1. 02-03-2022: no seminar, only update.
 1. 16-02-2022: no seminar, only update.
-1. 09-02-2022: 
+1. 09-02-2022: no seminar, only update.
 1. 02-02-2022: **AmyloGraph: Michał nie umie w zarządzanie**, Michał Burdukiewicz. 
 1. 26-01-2022: **protti: an R package for comprehensive data analysis of peptide- and protein-centric bottom-up proteomics data**, Jan-Philipp Quast. 
 1. 19-01-2022: **New Year's Resolutions**, Michał Burdukiewicz.
