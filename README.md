@@ -1,7 +1,42 @@
 ## Seminars
 
+1. 25-05-2022: **Golem**, Dominik Rafacz & Gustav Meyrink.
+1. 16-05-2022: **Modularizing Shiny**, Dominik Rafacz.
+1. 09-05-2022: **Shiny tricks**, Shinykrysia Grzesiak.
+1. 25-04-2022: **Shiny intro**, Michał Burdukiewicz.
+1. 11-04-2022: **Effective presentations**, Mariusz Trojanowski.
+1. 04-04-2022: no seminar, only update.
+1. 28-03-2022: **Peer-review principles**, Michał Burdukiewicz.
+1. 21-03-2022: no seminar, only update.
+1. 14-03-2022: no seminar, only update.
+1. 07-03-2022: **Michał talks about things**, Michał Burdukiewicz.
+1. 02-03-2022: no seminar, only update.
+1. 16-02-2022: no seminar, only update.
+1. 09-02-2022: no seminar, only update.
+1. 02-02-2022: **AmyloGraph: Michał nie umie w zarządzanie**, Michał Burdukiewicz. 
+1. 26-01-2022: **protti: an R package for comprehensive data analysis of peptide- and protein-centric bottom-up proteomics data**, Jan-Philipp Quast. 
+1. 19-01-2022: **New Year's Resolutions**, Michał Burdukiewicz.
+1. 22-12-2021: **Memomikołajki**, BioGenies.
+1. 15-12-2021: **BioGenies update #6**, Michał Burdukiewicz.
+1. 08-12-2021: **Molecular Insights into the Differential Dynamics of SARS-CoV-2 Variants of Concern (VOC)**, Nabanita Mandal.
+1. 01-12-2021: **Applications of automated data quality curation in machine learning based modelling of immunoinformatic systems: Episode One**, Dominik Rafacz.
+1. 24-11-2021: **adhesiomeR**, Katarzyna Sidorczuk.
+1. 17-11-2021: **Peptipedia**, David Medina-Ortiz (new time: 3 PM UTC+2).
+1. 10-11-2021: **Building HMM and molecular docking analysis for the sensitive detection of anti-viral pneumonia antimicrobial peptides (AMPs)**, 
+Olalekan Bakare.
+1. 03-11-2021: **Blood-brain barrier peptides**, Michał Burdukiewicz.
+1. 27-10-2021: **LILOP 2.0: I am choosing my hair color**, Michał Burdukiewicz.
+1. 20-10-2021: **Poster session at IBB**, BioGenies.
+1. 13-10-2021: **My own github profile readme**, Michał Burdukiewicz.
+1. 06-10-2021: **Protein-peptide docking in the era of accurate structure-prediction**, Sebastian Kmiecik.
+1. 29-09-2021: **Why my research is bad?**, Michał Burdukiewicz. 
+1. 22-09-2021: no seminar, only update.
+1. 15-09-2021: **AmyloGraph: a comprehensive database of amyloid-amyloid interactions**, Michał Burdukiewicz. 
+1. 08-09-2021: **Novel project managment**, Krystyna Grzesiak, Weronika Puchała.
+1. 01-09-2021: **Wstęp do modeli liniowych**, Krystyna Grzesiak. 
+1. 25-08-2021: **Next grants**, Michał Burdukiewicz. 
 1. 18-08-2021: **Elevator pitch**, BioGenies. 
-1. 11-08-2021: **Wstęp do modeli liniowych**, Krystyna Grzesiak. 
+1. 11-08-2021: **Wstęp do wstępu do modeli liniowych**, Krystyna Grzesiak. 
 1. 04-08-2021: **Is the human genome 3D structure an inherited trait?**, Michał Łaźniewski. 
 1. 28-07-2021: **PlastoGram**, Katarzyna Sidorczuk.
 1. 21-07-2021: **How to eat ice cream?**, Dominik Rafacz.
