@@ -1,28 +1,31 @@
 ## Seminars
 
-1. 25-05-2022: **Golem**, Dominik Rafacz & Gustav Meyrink.
-1. 16-05-2022: **Modularizing Shiny**, Dominik Rafacz.
-1. 09-05-2022: **Shiny tricks**, Shinykrysia Grzesiak.
-1. 25-04-2022: **Shiny intro**, Michał Burdukiewicz.
-1. 11-04-2022: **Effective presentations**, Mariusz Trojanowski.
-1. 04-04-2022: no seminar, only update.
-1. 28-03-2022: **Peer-review principles**, Michał Burdukiewicz.
-1. 21-03-2022: no seminar, only update.
-1. 14-03-2022: no seminar, only update.
-1. 07-03-2022: **Michał talks about things**, Michał Burdukiewicz.
-1. 02-03-2022: no seminar, only update.
-1. 16-02-2022: no seminar, only update.
-1. 09-02-2022: no seminar, only update.
-1. 02-02-2022: **AmyloGraph: Michał nie umie w zarządzanie**, Michał Burdukiewicz. 
-1. 26-01-2022: **protti: an R package for comprehensive data analysis of peptide- and protein-centric bottom-up proteomics data**, Jan-Philipp Quast. 
-1. 19-01-2022: **New Year's Resolutions**, Michał Burdukiewicz.
-1. 22-12-2021: **Memomikołajki**, BioGenies.
-1. 15-12-2021: **BioGenies update #6**, Michał Burdukiewicz.
-1. 08-12-2021: **Molecular Insights into the Differential Dynamics of SARS-CoV-2 Variants of Concern (VOC)**, Nabanita Mandal.
-1. 01-12-2021: **Applications of automated data quality curation in machine learning based modelling of immunoinformatic systems: Episode One**, Dominik Rafacz.
-1. 24-11-2021: **adhesiomeR**, Katarzyna Sidorczuk.
-1. 17-11-2021: **Peptipedia**, David Medina-Ortiz (new time: 3 PM UTC+2).
-1. 10-11-2021: **Building HMM and molecular docking analysis for the sensitive detection of anti-viral pneumonia antimicrobial peptides (AMPs)**, 
+1. 13-06-2022: **Golem**, Dominik Rafacz & Gustav Meyrink.
+2. 06-06-2022: ???
+3. 30-05-2022: **Zastosowania zautomatyzowanej kuracji jakości danych w modelowaniu systemów immunoinformatycznych opartym na uczeniu maszynowym**, Dominik Rafacz.
+4. 23-05-2022: **Shiny tricks**, Shinykrysia Grzesiak.
+5. 16-05-2022: **Modularizing Shiny**, Dominik Rafacz.
+6. 09-05-2022: **Analiza wpływu czynników środowiskowych oraz zanieczyszczeńpowietrza na choroby układu otolaryngologicznego na podstawie kohorty wrocławskiej z 2015 roku**, Dominik Nowakowski
+7. 25-04-2022: **Shiny intro**, Michał Burdukiewicz.
+8. 11-04-2022: **Effective presentations**, Mariusz Trojanowski.
+9. 04-04-2022: no seminar, only update.
+10. 28-03-2022: **Peer-review principles**, Michał Burdukiewicz.
+11. 21-03-2022: no seminar, only update.
+12. 14-03-2022: no seminar, only update.
+13. 07-03-2022: **Michał talks about things**, Michał Burdukiewicz.
+14. 02-03-2022: no seminar, only update.
+15. 16-02-2022: no seminar, only update.
+16. 09-02-2022: no seminar, only update.
+17. 02-02-2022: **AmyloGraph: Michał nie umie w zarządzanie**, Michał Burdukiewicz. 
+18. 26-01-2022: **protti: an R package for comprehensive data analysis of peptide- and protein-centric bottom-up proteomics data**, Jan-Philipp Quast. 
+19. 19-01-2022: **New Year's Resolutions**, Michał Burdukiewicz.
+20. 22-12-2021: **Memomikołajki**, BioGenies.
+21. 15-12-2021: **BioGenies update #6**, Michał Burdukiewicz.
+22. 08-12-2021: **Molecular Insights into the Differential Dynamics of SARS-CoV-2 Variants of Concern (VOC)**, Nabanita Mandal.
+23. 01-12-2021: **Applications of automated data quality curation in machine learning based modelling of immunoinformatic systems: Episode One**, Dominik Rafacz.
+24. 24-11-2021: **adhesiomeR**, Katarzyna Sidorczuk.
+25. 17-11-2021: **Peptipedia**, David Medina-Ortiz (new time: 3 PM UTC+2).
+26. 10-11-2021: **Building HMM and molecular docking analysis for the sensitive detection of anti-viral pneumonia antimicrobial peptides (AMPs)**, 
 Olalekan Bakare.
 1. 03-11-2021: **Blood-brain barrier peptides**, Michał Burdukiewicz.
 1. 27-10-2021: **LILOP 2.0: I am choosing my hair color**, Michał Burdukiewicz.
