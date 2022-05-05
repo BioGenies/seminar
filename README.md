@@ -1,5 +1,6 @@
 ## Seminars
 
+1. 20-06-2022: **bookdown**, Krystyna Grzesiak.
 1. 13-06-2022: **Golem**, Dominik Rafacz & Gustav Meyrink.
 2. 06-06-2022: ???
 3. 30-05-2022: **Zastosowania zautomatyzowanej kuracji jakości danych w modelowaniu systemów immunoinformatycznych opartym na uczeniu maszynowym**, Dominik Rafacz.
