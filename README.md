@@ -1,10 +1,12 @@
 ## Seminars
 
+1. 04-07-2022: **Inside the web of science**, Michał Burdukiewicz.
+1. 27-06-2022: **golem**, Dominik Rafacz & Gustav Meyrink.
 1. 20-06-2022: **bookdown**, Krystyna Grzesiak.
-1. 13-06-2022: **Golem**, Dominik Rafacz & Gustav Meyrink.
-2. 06-06-2022: ???
+1. 13-06-2022: no seminar, only update. 
+2. 06-06-2022: no seminar, only update.
 3. 30-05-2022: **Zastosowania zautomatyzowanej kuracji jakości danych w modelowaniu systemów immunoinformatycznych opartym na uczeniu maszynowym**, Dominik Rafacz.
-4. 23-05-2022: **Shiny tricks**, Shinykrysia Grzesiak.
+4. 23-05-2022: no seminar, only update.
 5. 16-05-2022: **Modularizing Shiny**, Dominik Rafacz.
 6. 09-05-2022: **Analiza wpływu czynników środowiskowych oraz zanieczyszczeńpowietrza na choroby układu otolaryngologicznego na podstawie kohorty wrocławskiej z 2015 roku**, Dominik Nowakowski
 7. 25-04-2022: **Shiny intro**, Michał Burdukiewicz.
