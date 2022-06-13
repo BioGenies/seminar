@@ -1,5 +1,6 @@
 ## Seminars
 
+1. 11-07-2022: **Do deep learning models make a difference in the identification of antimicrobial peptides?**, Carlos Alberto Brizuela Rodríguez.
 1. 04-07-2022: **Inside the web of science**, Michał Burdukiewicz.
 1. 27-06-2022: **golem**, Dominik Rafacz & Gustav Meyrink.
 1. 20-06-2022: **bookdown**, Krystyna Grzesiak.
