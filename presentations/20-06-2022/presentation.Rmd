@@ -1,0 +1,105 @@
+---
+title: "Bookdown"
+subtitle: "Dołoksiążka"
+date: "20-06-2022"
+author: Michal Burdukiewicz
+output: 
+  ioslides_presentation:
+    theme: "simplex"
+---
+
+
+<link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+
+<style>
+slides > slide {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+
+</style>
+
+
+## What is bookdown?
+
+Bookdown formats Rmd files in the form of pdf books (using book document type) and html books (using gitbook/bs_book).
+
+## Bookdown is not hugo
+
+It works without node.js dependencies.
+
+Hooray!
+
+## bookdown and science
+
+Bookdown can be used to directly write scientific articles using **rticles**.
+
+```{r,eval=FALSE}
+output:
+  bookdown::pdf_book:
+    base_format: rticles::bioinformatics_article
+```
+
+More: https://bookdown.org/yihui/bookdown/a-single-document.html
+
+Don't bother, you will use overleaf.
+
+## bookdownplus
+
+https://github.com/pzhaonet/bookdownplus
+
+ - more outputs: ebooks and .docx (but EPUB and MOBI are already provided by the standard bookdown)
+ - awesome book templates
+
+
+
+## Bookdown is not nice
+
+Gitbooks look okay, but the template for pdfs is extremely bare.
+
+## Bookdown is not nice in both ways
+
+Keeping bookdown nice for html and pdf is very time-consuming. You cannot translate css modifications to pdfs and latex templates to csses.
+
+Still:
+
+ - include images using knitr::include_graphics()
+ - include webpages using knitr::include_url()
+ - tables only using knitr::kable, xtable and flextable.
+ 
+# bookdown helps!
+
+## Referencing equations
+
+Pandoc's maths support is extremely limited.
+
+bookdown brings some new functionalities to the table:
+
+```latex
+\begin{equation} 
+  f\left(k\right) = \binom{n}{k} p^k\left(1-p\right)^{n-k}
+  (\#eq:michbur)
+\end{equation} 
+```
+
+And then: `\@ref(eq:michbur)`.
+
+The equation must start with "eq:".
+
+## Referencing theorems
+
+```markdown
+::: {.theorem #michbur name="michbur's theorem"}
+
+For each eaten meal there is a meal that should be eaten.
+
+:::
+
+```
