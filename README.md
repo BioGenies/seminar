@@ -1,5 +1,6 @@
 ## Seminars
 
+1. 02-08-2022: **BioGenies update #7**, Michał Burdukiewicz.
 1. 25-07-2022: **Empirical Bayes functional models for hydrogen deuterium exchange mass spectrometry**, Oliver M Crook.
 1. 18-07-2022: **Transfer learning in proteins: evaluating novel protein learned representations for bioinformatics tasks**, Emilio Fenoy.
 1. 11-07-2022: **Do deep learning models make a difference in the identification of antimicrobial peptides?**, Carlos Alberto Brizuela Rodríguez.
