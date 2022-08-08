@@ -1,5 +1,6 @@
 ## Seminars
 
+1. 17-10-2022: **Mistrzostwo świata w błyszczeniu: optymalne projektowanie aplikacji Shiny**, Dominik Rafacz.
 1. 22-08-2022: **PlastoGram v2**, Katarzyna Sidorczuk.
 1. 15-08-2022: Public holidays.
 1. 08-08-2022: **PlastoGram v1**, Katarzyna Sidorczuk.
