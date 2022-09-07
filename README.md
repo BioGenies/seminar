@@ -1,7 +1,11 @@
 ## Seminars
 
 1. 17-10-2022: **Mistrzostwo świata w błyszczeniu: optymalne projektowanie aplikacji Shiny**, Dominik Rafacz.
-1. 29-08-2022: **Optimal prediction of antimicrobial peptides**, Michał Burdukiewic.
+1. 26-09-2022: 
+1. 19-09-2022: no seminar, Michał has fun at the ECCB2022.
+1. 12-09-2022: no seminar, Michał has fun at the Training School.
+1. 05-09-2022: **Optimal prediction of antimicrobial peptides, part 2**, Michał Burdukiewicz.
+1. 29-08-2022: **Optimal prediction of antimicrobial peptides**, Michał Burdukiewicz.
 1. 22-08-2022: **PlastoGram v2**, Katarzyna Sidorczuk.
 1. 15-08-2022: Public holidays.
 1. 08-08-2022: **PlastoGram v1**, Katarzyna Sidorczuk.
