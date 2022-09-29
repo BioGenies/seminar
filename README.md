@@ -1,7 +1,7 @@
 ## Seminars
 
 1. 17-10-2022: **Mistrzostwo świata w błyszczeniu: optymalne projektowanie aplikacji Shiny**, Dominik Rafacz.
-1. 03-10-2022: 
+1. 03-10-2022: **BioGenies update #8**, Michał Burdukiewicz.
 1. 26-09-2022: **DRAMP 3.0: an enhanced comprehensive data repository of antimicrobial peptides**, Heng Zheng (MS Teams).
 1. 19-09-2022: no seminar, Michał has fun at the ECCB2022.
 1. 12-09-2022: no seminar, Michał has fun at the Barcelona Aggregation Training School.
