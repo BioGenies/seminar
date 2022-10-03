@@ -168,4 +168,10 @@ A lot of seminars, presentations and travelling. Next two weeks I am trying out 
  
 ## Thank you!
 
-These projects were done only thanks to you, who worked, participated in meetings and conversations, did your best and endured me.
+These projects were done only thanks to you, who worked, participated in meetings and conversations, did your best and survived all of this.
+
+## Thank you!
+
+```{r, echo=FALSE, out.width=750}
+knitr::include_graphics("biogenies.png")
+```
