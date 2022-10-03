@@ -29,6 +29,12 @@ margin-right: auto;
 
 ## I have started publishing
 
+```{r, echo=FALSE, out.width=750}
+knitr::include_graphics("journals.png")
+```
+
+## I have started publishing
+
 Yes, I have had published a few (32) manuscripts in the past, but they were *average* (with a single exception).
 
 This year I have pulled off two papers in more prestigious venues.
