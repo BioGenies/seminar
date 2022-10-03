@@ -161,7 +161,9 @@ knitr::include_graphics("resolutions.png")
 
 ## What is more for this year?
 
-A lot of seminars, presentations and travelling. Next two weeks I am trying out my presentations.
+A lot of seminars, presentations and travelling (the whole November). Next two weeks I am trying out my presentations.
+
+COST meeting: 25-26.10.2022.
 
 ## What are the next big project?
 
