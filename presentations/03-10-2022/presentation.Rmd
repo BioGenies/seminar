@@ -126,12 +126,12 @@ interactive_plot(p)
 
 ## Was it worth?
 
- - Now I'm happy that I did big projects
-    - but it was very risky (I did not publish small works, my CV was looking worse)
-    - killed me time-wise (no grant application in July, personal life suffered greatly, mini-seizure)
- - each project I stopped loving in the process
-    - suddenly the work became very hard
-    - it is a consequence of the gap between expectations and reality 
+ - Now I'm happy that I did big projects:
+    - but it was very risky (I did not publish small works, my CV was looking worse).
+    - but they killed me energy-wise (no grant application in July, personal life suffered greatly, mini-seizure).
+ - each project I stopped loving in the process:
+    - suddenly the work became very hard because I did not have the drive.
+    - it is a consequence of the gap between expectations and reality.
  
 ## What I have learned?
 
@@ -139,14 +139,19 @@ interactive_plot(p)
  
 ## What I have learned?
 
- - ~~a creative work is really hard to delegate~~
- - every kind of work is really hard to delegate.
- - discussing the project with other researchers outside the project helps the project to move forward: **the guidance is everything**.
+ - ~~a creative work~~ every kind of work is really hard to delegate.
+ - discussing the project with other researchers outside the project helps the project to move forward: **the knowledge is everything**.
  - I note too little: thanks to that, projects were disorganized.
  - I plan to little: the projects failed to achieve the envisioned impact.
  - people are hard to replace.
  - all unexpected difficulties arisen from the wrong communication with people.
- - Even though we work in a group, I have to deal with my stress nor disappointment on my own.
+ - even though we work in a group, I have to deal with my stress nor disappointment on my own.
+
+## Why other projects are not that successful?
+
+I am going too much out of my area of the expertise.
+
+These projects could be sucessful: I just need to patiently work for better results to appear.
 
 ## What is more for this year?
 
