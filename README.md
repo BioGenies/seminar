@@ -1,5 +1,6 @@
 ## Seminars
 
+1. 12-12-2022: **Handcrafted versus non-handcrafted (self-supervised) features for the classification of antimicrobial peptides: complementary or redundant?**, Carlos Alberto Brizuela Rodríguez.
 1. 17-10-2022: **Mistrzostwo świata w błyszczeniu: optymalne projektowanie aplikacji Shiny**, Dominik Rafacz.
 1. 10-10-2022: **The dynamic landscape of peptide function prediction**: Oriol Bárcenas, Michał Burdukiewicz, Carlos Pintado-Grima.
 1. 03-10-2022: **BioGenies update #8**, Michał Burdukiewicz.
