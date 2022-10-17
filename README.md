@@ -8,7 +8,7 @@
 1. 07-11-2022: 
 1. 31-10-2022: **Your scariest research** BioGenies.
 1. 26-10-2022: no seminar, Michał is networking in Wrocław.
-1. 17-10-2022: **Mistrzostwo świata w błyszczeniu: optymalne projektowanie aplikacji Shiny**, Dominik Rafacz.
+1. 17-10-2022: **Pitfalls of machine learning for peptide analysis**, Michał Burdukiewicz.
 1. 10-10-2022: **The dynamic landscape of peptide function prediction**: Oriol Bárcenas, Michał Burdukiewicz, Carlos Pintado-Grima.
 1. 03-10-2022: **BioGenies update #8**, Michał Burdukiewicz.
 1. 26-09-2022: **DRAMP 3.0: an enhanced comprehensive data repository of antimicrobial peptides**, Heng Zheng (MS Teams).
