@@ -5,7 +5,7 @@
 1. 28-11-2022: 
 1. 21-11-2022: 
 1. 14-11-2022: 
-1. 07-11-2022: 
+1. 07-11-2022: no seminar, Michał is networking in Białystok.
 1. 31-10-2022: **Your scariest research** BioGenies.
 1. 26-10-2022: no seminar, Michał is networking in Wrocław.
 1. 17-10-2022: **Pitfalls of machine learning for peptide analysis**, Michał Burdukiewicz.
