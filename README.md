@@ -4,7 +4,7 @@
 1. 05-12-2022: 
 1. 28-11-2022: 
 1. 21-11-2022: 
-1. 14-11-2022: 
+1. 14-11-2022: no seminar, Michał is networking in Warsaw.
 1. 07-11-2022: no seminar, Michał is networking in Białystok.
 1. 31-10-2022: **Your scariest research** BioGenies.
 1. 26-10-2022: no seminar, Michał is networking in Wrocław.
