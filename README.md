@@ -1,7 +1,7 @@
 ## Seminars
 
 1. 19-12-2022: 
-1. 12-12-2022: **Handcrafted versus non-handcrafted (self-supervised) features for the classification of antimicrobial peptides: complementary or redundant?**, Carlos Alberto Brizuela Rodríguez.
+1. 12-12-2022: ~~**Handcrafted versus non-handcrafted (self-supervised) features for the classification of antimicrobial peptides: complementary or redundant?**, Carlos Alberto Brizuela Rodríguez.~~ only update.
 1. 05-12-2022: **AMPLE: detection of antimicrobial peptides in metagenomic data** Michał Burdukiewicz.
 1. 28-11-2022: **Lessons from Poland** Michał Burdukiewicz.
 1. 21-11-2022: no seminar, Michał is still networking in Warsaw.
