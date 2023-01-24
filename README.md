@@ -1,6 +1,9 @@
 ## Seminars
 
-1. 22-01-2023: **Optimal ensemble selection**, Michał Burdukiewicz.
+1. 13-02-2023: **A heuristic algorithm solving the mutual-exclusivity sorting problem**, Alessandro Vinceti.
+1. 06-02-2023: 
+1. 30-01-2023: 
+1. 23-01-2023: **Optimal ensemble selection**, Michał Burdukiewicz.
 1. 16-01-2023: **Handcrafted versus non-handcrafted (self-supervised) features for the classification of antimicrobial peptides: complementary or redundant?**, Carlos Alberto Brizuela Rodríguez.
 1. 10-01-2023: **BioGenies in 2023**.
 1. 12-12-2022: ~~**Handcrafted versus non-handcrafted (self-supervised) features for the classification of antimicrobial peptides: complementary or redundant?**, Carlos Alberto Brizuela Rodríguez.~~ only update.
