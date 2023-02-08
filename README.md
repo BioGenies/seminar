@@ -1,5 +1,8 @@
 ## Seminars
 
+1. 06-03-2023: **Introduction to metabolomics**, Michał Ciborowski (in Polish).
+1. 27-02-2023: 
+1. 20-02-2023: 
 1. 13-02-2023: **A heuristic algorithm solving the mutual-exclusivity sorting problem**, Alessandro Vinceti.
 1. 06-02-2023: 
 1. 30-01-2023: no seminar, only update.
