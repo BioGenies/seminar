@@ -3,8 +3,8 @@
 1. 03-04-2023: **Preludium to science**, Jarosław Chilimoniuk & Krystyna Grzesiak.
 1. 27-03-2023: **Prediction of adhesins**, Katarzyna Sidorczuk.
 1. 20-03-2023: **Imputomics**, Jarosław Chilimoniuk.
-1. 13-03-2023: 
-1. 06-03-2023: **Introduction to metabolomics**, Michał Ciborowski (in Polish).
+1. 13-03-2023: **Introduction to metabolomics**, Michał Ciborowski (in Polish).
+1. 06-03-2023: 
 1. 27-02-2023: 
 1. 20-02-2023: **Mining the entire space of peptide sequences**, Michał Burdukiewicz and Jakub Kała.
 1. 13-02-2023: **A heuristic algorithm solving the mutual-exclusivity sorting problem**, Alessandro Vinceti.
