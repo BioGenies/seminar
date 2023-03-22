@@ -1,5 +1,6 @@
 ## Seminars
 
+1. (maybe) 17-04-2023: **Introduction to metabolomics**, Michał Ciborowski (in Polish).
 1. 03-04-2023: **Preludium to science**, Jarosław Chilimoniuk & Krystyna Grzesiak.
 1. 27-03-2023: **Prediction of adhesins**, Katarzyna Sidorczuk.
 1. 20-03-2023: **Imputomics**, Jarosław Chilimoniuk.
