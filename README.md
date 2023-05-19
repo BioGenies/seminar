@@ -1,5 +1,8 @@
 ## Seminars
 
+
+1. 19-05-2023: **When quality does not matter: a curious case of the subplastid location prediction**, Michał Burdukiewicz
+1. 12-05-2023: **Grantopisanie**, Michał Burdukiewicz.
 1. (maybe) 17-04-2023: **Introduction to metabolomics**, Michał Ciborowski (in Polish).
 1. 03-04-2023: **Preludium to science**, Jarosław Chilimoniuk & Krystyna Grzesiak.
 1. 27-03-2023: **Prediction of adhesins**, Katarzyna Sidorczuk.
