@@ -1,7 +1,7 @@
 ## Seminars
 
-
-1. 05-06-2023: **Supervised learning (Understanding Deep Learning, Chapter 2)**, Michał Burdukiewicz
+1. 12-06-2023: **Shallow neural networks (Understanding Deep Learning, Chapter 3)**, Jakub Kała.
+1. 05-06-2023: **Supervised learning (Understanding Deep Learning, Chapter 2)**, Michał Burdukiewicz.
 1. 19-05-2023: **When quality does not matter: a curious case of the subplastid location prediction**, Michał Burdukiewicz
 1. 12-05-2023: **Grantopisanie**, Michał Burdukiewicz.
 1. (maybe) 17-04-2023: **Introduction to metabolomics**, Michał Ciborowski (in Polish).
