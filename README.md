@@ -1,5 +1,8 @@
 ## Seminars
 
+1. 03-07-2023: **Styles with Benefits. The StyloMetrix Vectors for Stylistic and Semantic Text Classification of Small-Scale Datasets and Different Sample Length**, Inez Okulska.
+1. 26-06-2023: **Deep neural networks (Understanding Deep Learning, Chapter 4): notebooks**, Michal Burdukiewicz.
+1. 19-06-2023: **Shallow neural networks (Understanding Deep Learning, Chapter 3): notebooks**, Jakub Kała.
 1. 12-06-2023: **Shallow neural networks (Understanding Deep Learning, Chapter 3)**, Jakub Kała.
 1. 05-06-2023: **Supervised learning (Understanding Deep Learning, Chapter 2)**, Michał Burdukiewicz.
 1. 19-05-2023: **When quality does not matter: a curious case of the subplastid location prediction**, Michał Burdukiewicz
