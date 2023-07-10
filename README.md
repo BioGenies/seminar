@@ -1,5 +1,6 @@
 ## Seminars
 
+1. 17-07-2023: **BioGenies update #9**, Michal Burdukiewicz.
 1. 10-07-2023: **Deep neural networks (Understanding Deep Learning, Chapter 4): notebooks**, Michal Burdukiewicz.
 1. 03-07-2023: **Styles with Benefits. The StyloMetrix Vectors for Stylistic and Semantic Text Classification of Small-Scale Datasets and Different Sample Length**, Inez Okulska.
 1. 26-06-2023: **Shallow neural networks (Understanding Deep Learning, Chapter 3): notebooks**, Jakub Kała.
