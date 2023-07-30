@@ -1,5 +1,8 @@
 ## Seminars
 
+1. 18-08-2023: **BioGenies: Year 3**.
+1. 14-08-2023: no seminar, we move it to 18-08-2023.
+1. 07-08-2023: **Deep neural networks (Understanding Deep Learning, Chapter 6)**, Jakub Kała.
 1. 31-07-2023: **Deep neural networks (Understanding Deep Learning, Chapter 5): notebooks**, Jakub Kała.
 1. 17-07-2023: **BioGenies update #9**, Michal Burdukiewicz.
 1. 10-07-2023: **Deep neural networks (Understanding Deep Learning, Chapter 4): notebooks**, Michal Burdukiewicz.
