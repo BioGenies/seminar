@@ -1,5 +1,6 @@
 ## Seminars
 
+1. 18-09-2023: **Symptome Checkers**, Michał Burdukiewicz.
 1. 11-09-2023: **Deep neural networks (Understanding Deep Learning, Chapter 8)**, Jakub Kała.
 1. 21-08-2023: **Copernican Revolution**, Michał Burdukiewicz.
 1. 18-08-2023: **BioGenies: Year 3**.
