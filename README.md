@@ -4,7 +4,7 @@
 1. 16-10-2023: **Cracking the black box of deep sequence-based protein-protein interaction prediction (pre-print comments)**: Jarosław Chilimoniuk.
 1. 09-10-2023: **Analysis of amyloid-amyloid interaction networks**, Laura Bąkała.
 1. 02-10-2023: ...
-1. 25-09-2023: ...
+1. 25-09-2023: **Tree of science**, Michał Burdukiewicz.
 1. 18-09-2023: **Symptome Checkers**, Michał Burdukiewicz.
 1. 11-09-2023: **Deep neural networks (Understanding Deep Learning, Chapter 8)**, Jakub Kała.
 1. 21-08-2023: **Copernican Revolution**, Michał Burdukiewicz.
