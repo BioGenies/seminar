@@ -1,8 +1,8 @@
 ## Seminars
 
 1. 20-11-2023: **Robust dataset generation and feature characterization for the specific prediction and benchmarking of client and driver proteins in LLPS**, Carlos Pintado-Grima.
-1. 13-11-2023:
-1. 04-11-2023:
+1. 13-11-2023: **Deep neural networks (Understanding Deep Learning, Chapter 8)**, Jakub Kała.
+1. 04-11-2023: no seminar.
 1. 30-10-2023: **BioGenies update #10**, Michal Burdukiewicz.
 1. 23-10-2023: **Cracking the black box of deep sequence-based protein-protein interaction prediction**, Judith Bernett.
 1. 16-10-2023: **Cracking the black box of deep sequence-based protein-protein interaction prediction (pre-print comments)**: Jarosław Chilimoniuk.
