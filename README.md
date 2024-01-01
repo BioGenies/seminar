@@ -1,5 +1,7 @@
 ## Seminars
 
+1. 08-01-2024: **BioGenies in 2024**, Michał Burdukiewicz.
+1. 18-12-2023: **THE SEMINAR**, Oriol Bárcenas.
 1. 20-11-2023: **Robust dataset generation and feature characterization for the specific prediction and benchmarking of client and driver proteins in LLPS**, Carlos Pintado-Grima.
 1. 13-11-2023: **Deep neural networks (Understanding Deep Learning, Chapter 8)**, Jakub Kała.
 1. 04-11-2023: no seminar.
