@@ -1,7 +1,8 @@
 ## Seminars
 
+1. 24-06-2024: no seminar
 1. 17-06-2024: **Miniatura grant**, Michał Burdukiewicz.
-1. Long lack of planned seminars because Michał was travelling and other things.
+1. Long lack of planned seminars because Michał was traveling and other things.
 1. 08-01-2024: **BioGenies in 2024**, Michał Burdukiewicz.
 1. 18-12-2023: **THE SEMINAR**, Oriol Bárcenas.
 1. 20-11-2023: **Robust dataset generation and feature characterization for the specific prediction and benchmarking of client and driver proteins in LLPS**, Carlos Pintado-Grima.
