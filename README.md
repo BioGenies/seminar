@@ -1,5 +1,6 @@
 ## Seminars
 
+1. 01-07-2024: **Metabocrates**, Filip Gaj. 
 1. 24-06-2024: no seminar
 1. 17-06-2024: **Miniatura grant**, Michał Burdukiewicz.
 1. Long lack of planned seminars because Michał was traveling and other things.
