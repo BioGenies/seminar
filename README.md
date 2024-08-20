@@ -1,5 +1,7 @@
 ## Seminars
 
+1. 19-08-2024: **Funny stories**, Weronika Puchała, Jakub Kołodziejczyk.
+1. 12-07-2024: **BioGenies website ideas**, Jarek Chilimoniuk.
 1. 08-07-2024: no seminar
 1. 01-07-2024: **Metabocrates**, Filip Gaj | **Pathway analysis tailored for metabolomic data**, Joanna Pokora.
 1. 24-06-2024: no seminar
