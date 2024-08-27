@@ -1,5 +1,6 @@
 ## Seminars
 
+1. 26-08-2024: **AmyloGraph 2.0 - project ideas**, Michał Burdukiewicz
 1. 19-08-2024: **Funny stories**, Weronika Puchała, Jakub Kołodziejczyk.
 1. 12-07-2024: **BioGenies website ideas**, Jarek Chilimoniuk.
 1. 05-07-2024: no seminar
