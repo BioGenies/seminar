@@ -1,11 +1,11 @@
 ## Seminars
 
-1. 26-08-2024: **AmyloGraph 2.0 - project ideas**, Michał Burdukiewicz
+1. 26-08-2024: **AmyloGraph 2.0 - project ideas**, Michał Burdukiewicz.
 1. 19-08-2024: **Funny stories**, Weronika Puchała, Jakub Kołodziejczyk.
 1. 12-07-2024: **BioGenies website ideas**, Jarek Chilimoniuk.
-1. 05-07-2024: no seminar
+1. 05-07-2024: no seminar.
 1. 01-07-2024: **Metabocrates**, Filip Gaj | **Pathway analysis tailored for metabolomic data**, Joanna Pokora.
-1. 24-06-2024: no seminar
+1. 24-06-2024: no seminar.
 1. 17-06-2024: **Miniatura grant**, Michał Burdukiewicz.
 1. Long lack of planned seminars because Michał was traveling and other things.
 1. 08-01-2024: **BioGenies in 2024**, Michał Burdukiewicz.
