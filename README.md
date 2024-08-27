@@ -15,7 +15,7 @@
 1. 04-11-2023: no seminar.
 1. 30-10-2023: **BioGenies update #10**, Michal Burdukiewicz.
 1. 23-10-2023: **Cracking the black box of deep sequence-based protein-protein interaction prediction**, Judith Bernett.
-1. 16-10-2023: **Cracking the black box of deep sequence-based protein-protein interaction prediction (pre-print comments)**: Jarosław Chilimoniuk.
+1. 16-10-2023: **Cracking the black box of deep sequence-based protein-protein interaction prediction (pre-print comments)**, Jarosław Chilimoniuk.
 1. 09-10-2023: **Analysis of amyloid-amyloid interaction networks**, Laura Bąkała.
 1. 02-10-2023: **Tree of science**, Michał Burdukiewicz.
 1. 25-09-2023: **Deep neural networks (Understanding Deep Learning, Chapter 7)**, Jakub Kała.
@@ -58,7 +58,7 @@
 1. 31-10-2022: **Your scariest research** BioGenies.
 1. 26-10-2022: no seminar, Michał is networking in Wrocław.
 1. 17-10-2022: **Pitfalls of machine learning for peptide analysis**, Michał Burdukiewicz.
-1. 10-10-2022: **The dynamic landscape of peptide function prediction**: Oriol Bárcenas, Michał Burdukiewicz, Carlos Pintado-Grima.
+1. 10-10-2022: **The dynamic landscape of peptide function prediction** Oriol Bárcenas, Michał Burdukiewicz, Carlos Pintado-Grima.
 1. 03-10-2022: **BioGenies update #8**, Michał Burdukiewicz.
 1. 26-09-2022: **DRAMP 3.0: an enhanced comprehensive data repository of antimicrobial peptides**, Heng Zheng (MS Teams).
 1. 19-09-2022: no seminar, Michał has fun at the ECCB2022.
