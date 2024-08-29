@@ -7,7 +7,7 @@
 1. 01-07-2024: **Metabocrates**, Filip Gaj | **Pathway analysis tailored for metabolomic data**, Joanna Pokora.
 1. 24-06-2024: no seminar.
 1. 17-06-2024: **Miniatura grant**, Michał Burdukiewicz.
-1. Long lack of planned seminars because Michał was traveling and other things.
+1. 16-06-2024: Long lack of planned seminars because Michał was traveling and other things.
 1. 08-01-2024: **BioGenies in 2024**, Michał Burdukiewicz.
 1. 18-12-2023: **THE SEMINAR**, Oriol Bárcenas.
 1. 20-11-2023: **Robust dataset generation and feature characterization for the specific prediction and benchmarking of client and driver proteins in LLPS**, Carlos Pintado-Grima.
@@ -35,7 +35,7 @@
 1. 05-06-2023: **Supervised learning (Understanding Deep Learning, Chapter 2)**, Michał Burdukiewicz.
 1. 19-05-2023: **When quality does not matter: a curious case of the subplastid location prediction**, Michał Burdukiewicz
 1. 12-05-2023: **Grantopisanie**, Michał Burdukiewicz.
-1. (maybe) 17-04-2023: **Introduction to metabolomics**, Michał Ciborowski (in Polish).
+1. 17-04-2023 (maybe): **Introduction to metabolomics**, Michał Ciborowski (in Polish).
 1. 03-04-2023: **Preludium to science**, Jarosław Chilimoniuk & Krystyna Grzesiak.
 1. 27-03-2023: **Prediction of adhesins**, Katarzyna Sidorczuk.
 1. 20-03-2023: **Imputomics**, Jarosław Chilimoniuk.
