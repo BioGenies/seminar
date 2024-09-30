@@ -1,6 +1,9 @@
 ## Seminars
-
-1. 01-09-2024: **AmyloGraph 2.0 - data collection ideas**, Michał Burdukiewicz.
+1. 30-09-2024:
+1. 23-09-2024: no seminar.
+1. 16-09-2024: no seminar.
+1. 09-09-2024: just talking and having fun.
+1. 02-09-2024: **AmyloGraph 2.0 - data collection ideas**, Michał Burdukiewicz.
 1. 26-08-2024: **AmyloGraph 2.0 - project ideas**, Michał Burdukiewicz.
 1. 19-08-2024: **Funny stories**, Weronika Puchała, Jakub Kołodziejczyk.
 1. 12-07-2024: **BioGenies website ideas**, Jarek Chilimoniuk.
