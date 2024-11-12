@@ -1,4 +1,6 @@
 ## Seminars
+1. 12.11.2024: **OneTick**, Michał Burdukiewicz.
+1. 04.11.2024: just talking and having fun.
 1. 30-09-2024:
 1. 23-09-2024: no seminar.
 1. 16-09-2024: no seminar.
