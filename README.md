@@ -1,4 +1,5 @@
 ## Seminars
+1. 07-01-2025: **Metabocrates**, Joanna Pokora and Krystyna Grzesiak.
 1. 26-11-2024: **Our self-presentations part 2**, BioGenies.
 1. 19-11-2024: **Our self-presentations**, BioGenies.
 1. 12-11-2024: **OneTick**, Michał Burdukiewicz.
