@@ -1,5 +1,6 @@
 ## Seminars
-1. 07-01-2025: **Metabocrates**, Joanna Pokora and Krystyna Grzesiak.
+1. 14-01-2025: **Metabocrates**, Joanna Pokora and Krystyna Grzesiak.
+1. 07-01-2025: **BioGenies plans for 2025**, Michał Burdukiewicz.
 1. 17-12-2024: **BioGenies year 2024 summary**, Jarek Chilimoniuk.
 1. 26-11-2024: **Our self-presentations part 2**, BioGenies.
 1. 19-11-2024: **Our self-presentations**, BioGenies.
