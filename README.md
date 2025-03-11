@@ -1,4 +1,7 @@
 ## Seminars
+1. 18-03-2025: **advancements in developing model**, Sonor Kubkowski.
+1. 11-03-2025: **swirl**, Joanna Pokora.
+2. 25-02-2025: **Michałs video presentation**, Michał Burdukiewicz.
 1. 14-01-2025: **Metabocrates**, Joanna Pokora and Krystyna Grzesiak.
 1. 07-01-2025: **BioGenies plans for 2025**, Michał Burdukiewicz.
 1. 17-12-2024: **BioGenies year 2024 summary**, Jarek Chilimoniuk.
