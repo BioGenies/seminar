@@ -1,5 +1,6 @@
 ## Seminars
-1. 18-03-2025: **advancements in developing model**, Sonor Kubkowski.
+1. 01-04-2025: **Advancements in developing model**, Sonor Kubkowski.
+1. 18-03-2025: **TAPESTRY**, Michał Burdukiewicz.
 1. 11-03-2025: **swirl tutorial**, Joanna Pokora.
 2. 25-02-2025: **Michałs video presentation**, Michał Burdukiewicz.
 1. 14-01-2025: **Metabocrates**, Joanna Pokora and Krystyna Grzesiak.
