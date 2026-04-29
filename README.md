@@ -1,5 +1,5 @@
 ## Seminars
-1. 29-04-2026: **Predictive Modeling in Trauma Data**, Krystyna Grzesiak.
+1. 29-04-2026: **Synthetic Data Generation and Debiasing for Predictive Modeling in Trauma Data**, Krystyna Grzesiak.
 1. 22-04-2026: **Biogenies - general update**, Michał Burdukiewicz.
 1. 01-04-2025: **Advancements in developing model**, Sonor Kubkowski.
 1. 18-03-2025: **TAPESTRY**, Michał Burdukiewicz.
