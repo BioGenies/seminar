@@ -1,4 +1,10 @@
 ## Seminars
+1. 28-10-2026: **AmyloDeep**, Rafayel Petrosyan.
+1. 07-10-2026: **Biogenies - general update**, Michał Burdukiewicz.
+1. 19-08-2026: **Biogenies - new collaborators**, Michał Burdukiewicz.
+1. 29-07-2026: **Biogenies - quick update**, Michał Burdukiewicz.
+1. 08-07-2026: **Peer review process**, Michał Burdukiewicz.
+1. 27-05-2026: **Project update**, Oriol Bárcenas.
 1. 06-05-2026: **Mariias projects summary**, Mariia Rutkowska.
 1. 29-04-2026: **Synthetic Data Generation and Debiasing for Predictive Modeling in Trauma Data**, Krystyna Grzesiak.
 1. 22-04-2026: **Biogenies - general update**, Michał Burdukiewicz.
